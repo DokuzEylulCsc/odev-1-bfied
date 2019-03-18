@@ -14,7 +14,7 @@ namespace Odev_1
         public void yasayankaldimi()
         {
             int x = 7;
-            if()
+           
         }
 
         public void create_team(int x, int y, bool team)
